@@ -1,1 +1,1 @@
-# leJOS-EV3-Client
+# lejos-client
